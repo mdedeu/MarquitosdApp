@@ -1,3 +1,6 @@
+
+Necesitamos tener instalado Ganache para el testeo local, node.js.
+
 truffle migrate( deploy)
 
 truffle test(test)
